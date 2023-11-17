@@ -1,0 +1,2 @@
+Prefix plugins/Heatmap5Pct/example/
+Plugin Heatmap5Pct inputfile input.csv outputfile output.png
